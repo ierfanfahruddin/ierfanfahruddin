@@ -75,13 +75,6 @@
 ![Jokes Card](https://readme-jokes.vercel.app/api)
   
 </p>
-### 🤝🏻 &nbsp;Connect with Me
-
-<p align="center">
-    <a href="https://www.instagram.com/ierfanfahruddin/">
-        <img src="https://img.shields.io/badge/-@ierfanfahruddin-fc0384?style=flat&logo=Instagram&logoColor=white" />
-    </a>
-</p>
 
 
 
