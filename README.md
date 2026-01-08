@@ -34,7 +34,9 @@
     <a href="https://github.com/ierfanfahruddin">
         <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ierfanfahruddin&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515" />
         <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ierfanfahruddin&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact" />
+        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ierfanfahruddin&layout=compact&langs_count=8&theme=algolia"/>
     </a>
+    
 
 </p>
 <!--   <p align="center">
@@ -78,7 +80,7 @@
 
 <p align="center">
     <a href="https://www.instagram.com/ierfanfahruddin/">
-        <img src="https://img.shields.io/badge/-@ierfanfahruddin-fc0384 style=flat&logo=Instagram&logoColor=white" />
+        <img src="https://img.shields.io/badge/-@ierfanfahruddin-fc0384?style=flat&logo=Instagram&logoColor=white" />
     </a>
 </p>
 
