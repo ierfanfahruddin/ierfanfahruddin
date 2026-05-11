@@ -38,16 +38,15 @@
     
 
 </p>
-<!--   <p align="center">
+ <p align="center">
       <img
         align="center"
         src="https://github-readme-streak-stats.herokuapp.com/?user=ierfanfahruddin&theme=dark"
         alt="ierfanfahruddin"
       />
 
- </p> -->
+ </p>
  
-[![GitHub Streak](https://streak-stats.demolab.com?user=ierfanfahruddin&theme=dark)](https://git.io/streak-stats)
 <a href="#"><img src="colored.png"  width="100%" alt="play.kotlinlang.org"/></a>
 
 
