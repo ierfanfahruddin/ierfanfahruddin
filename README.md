@@ -46,7 +46,8 @@
       />
 
  </p> -->
-[![GitHub Streak](https://streak-stats.demolab.com?user=ierfanfahruddin&theme=dark&locale=jv)](https://git.io/streak-stats)
+ 
+[![GitHub Streak](https://streak-stats.demolab.com?user=ierfanfahruddin&theme=dark)](https://git.io/streak-stats)
 <a href="#"><img src="colored.png"  width="100%" alt="play.kotlinlang.org"/></a>
 
 
